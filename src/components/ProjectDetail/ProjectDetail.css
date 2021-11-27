@@ -1,0 +1,26 @@
+.projectdetail-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 70%;
+    margin: 0px auto 20px;
+}
+
+.input-detail {
+    width: 200px;
+    height: 40px;
+    color: black;
+}
+
+.new-project p {
+}
+
+.timer-container {
+}
+
+.button-container {
+}
+
+.start-button {
+}
